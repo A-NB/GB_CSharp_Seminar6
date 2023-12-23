@@ -1,0 +1,14 @@
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\bin\Debug\net8.0\Task2.exe
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\bin\Debug\net8.0\Task2.deps.json
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\bin\Debug\net8.0\Task2.dll
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\bin\Debug\net8.0\Task2.pdb
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\Task2.dll
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\refint\Task2.dll
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\Task2.pdb
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task2\obj\Debug\net8.0\ref\Task2.dll

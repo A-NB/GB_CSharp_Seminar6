@@ -1,0 +1,14 @@
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\bin\Debug\net8.0\Task3.exe
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\bin\Debug\net8.0\Task3.deps.json
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\bin\Debug\net8.0\Task3.dll
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\bin\Debug\net8.0\Task3.pdb
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\Task3.dll
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\refint\Task3.dll
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\Task3.pdb
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+I:\000 Geek Brains\Знакомство с ЯП\Семинары\GB_5515\ДЗ_Seminar6\Task3\obj\Debug\net8.0\ref\Task3.dll
